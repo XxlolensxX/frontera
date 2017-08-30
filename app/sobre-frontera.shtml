@@ -1,0 +1,34 @@
+<!--#include file="header.shtml" -->
+<main>
+  <section class="container horizon">
+    <div class="gridle-row">
+      <div class="gridle-gr-2">
+        <!--#include file="partials/navs/left.shtml" -->
+      </div>
+      <div class="gridle-gr-8 gridle-gr-12@tablet">
+        <div class="introd horizon--two-r">
+          <h2 class="title_page">Sobre Fronteras</h2>
+          <!--<p class="subtitle-page">Investigadora responsable</p>-->
+        </div>
+        <section class="contenido-regular">
+          <p>El objetivo general se ha operacionalizado en los siguientes objetivos específicos:</p>
+          <ol>
+            <li>Constituir y Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt qui officia desre eu</li>
+            <li>Transferir y difundir conocimiento específico, a través de docencia,  capacitación y extensión a la comunidad nacional, apuntando a incorporar los temas foco en las agendas académicas y públicas a nivel local, regional y nacional.</li>
+            <li>Producir recursos de conocimiento y tecnológicos que con excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt qui officia desre eu </li>
+            <li>Difundir a través de diversos medios de Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt qui officia desre eu  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt qui officia desre eu Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt qui officia desre eu.</li>
+          </ol>
+          <figure>
+          <img src="images/posts/image_normal.jpg" alt="imagen de prueba">
+          <figcaption>Difundir a través de diversos medios de Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt qu.</figcaption>
+          </figure>
+        </section>
+      </div>
+      <div class="gridle-gr-2">
+        <!--#include file="partials/navs/right.shtml" -->
+      </div>
+    </div>
+  </section>
+  <!--#include file="partials/escribenos.shtml" -->
+</main>
+<!--#include file="footer.shtml" -->

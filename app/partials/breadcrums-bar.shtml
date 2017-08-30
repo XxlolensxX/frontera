@@ -1,0 +1,16 @@
+<section class="container breadcrums-bar">
+  <ul class="breadcrums">
+    <li class="breadcrums__link">
+      <a href="index.shtml">inicio</a>
+    </li>
+    <li class="breadcrums__link breadcrums__link--active">
+      <a href="index.shtml">equipo</a>
+    </li>
+  </ul>
+  <div class="print">
+    <div class="button button-icon button-icon--outline">
+      <a href="#">Imprimir página</a>
+      <i class="icon-elem icon-elem--print"></i>
+    </div>
+  </div>
+</section>

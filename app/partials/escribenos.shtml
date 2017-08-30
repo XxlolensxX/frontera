@@ -1,0 +1,25 @@
+<section class="contact">
+  <div class="content">
+    <h2>Escríbenos</h2>
+    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dol</p>
+    <form class="gridle-row contact-form" data-module="common-form" novalidate="" data-validizr-handled="true">
+      <div class="gridle-gr-4 gridle-gr-12@medium">
+        <div class="form-control" data-error-message="Debe llenar este campo sólo con caracteres no numéricos">
+          <label class="form-control__label">Nombre *</label>
+          <p class="form-control__label form-control__label--english">Name and Lastname *</p>
+          <input type="text" class="form-control__field" required="" placeholder="Nombre y Apellidos" data-custom-validation="onlyString">
+        </div>
+      </div>
+      <div class="gridle-gr-4 gridle-gr-12@medium">
+        <div class="form-control" data-error-message="Debe llenar este campo con un email válido">
+          <label class="form-control__label">Correo Electrónico *</label>
+          <p class="form-control__label form-control__label--english">E-Mail *</p>
+          <input id="sample-email" type="email" class="form-control__field" required="" placeholder="ejemplo@email.com">
+        </div>
+      </div>
+      <div class="gridle-gr-4 gridle-gr-12@medium flex-end">
+        <button type="submit" class="button button--full-width button--secondary">Enviar</button>
+      </div>
+    </form>
+  </div>
+</section>

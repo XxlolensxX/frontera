@@ -1,0 +1,205 @@
+<!--#include file="header.shtml" -->
+<main class="single-post">
+  <section class="container horizon">
+    <div class="gridle-row">
+      <div class="gridle-gr-8 gridle-gr-12@tablet territorio">
+        <div class="introd">
+          <h2 class="title_page">MINEDUC invita a postular a proyectos de tecnología para el aprendizaje</h2>
+          <div class="common-box__footer">
+            <i class="icon-elem icon-elem--fingerprint back-color"></i>
+            <p class="p-author common-box__meta"><a href="#" title="titulo de ejemplo">Publicado por Tatiana</a></p>
+            <time class="dt-published common-box__meta" datetime="2013-06-13 12:00:00">el 08/09/2016</time>
+          </div>
+        </div>
+        <!--<p class="subtitle-page">Investigadora responsable</p>-->
+      </div>
+      <div class="gridle-gr-8 gridle-gr-12@tablet territorio">
+        <section class="contenido-regular single">
+          <div class="video">
+            <div class="video_wrapper">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/0vrdgDdPApQ" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <div class="share_video">
+              <div class="share_video__text">compartir</div>
+              <div class="share_video__icons">
+                <div class="share_video__link">
+                  <a href="#" class="icon-elem icon-elem--facebook"></a>
+                </div>
+                <div class="share_video__link">
+                  <a href="#" class="icon-elem icon-elem--twitter"></a>
+                </div>
+                <div class="share_video__link">
+                  <a href="#" class="icon-elem icon-elem--youtube"></a>
+                </div>
+                <div class="share_video__link">
+                  <a href="#" class="icon-elem icon-elem--linkedin"></a>
+                </div>
+                <div class="share_video__link">
+                  <a href="#" class="icon-elem icon-elem--markunread"></a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <p class="horizon--two-r">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <p>A tres años de su constitución, podemos afirmar que hemos transitado por tres etapas:</p>
+          <ul>
+            <li>El primer año, 2013, fue de instalación, tanto interna como externamente.</li>
+            <li>El segundo año, 2014, fue una etapa de desarrollo inicial, en el que comenzamos a postular, gestionar e implementar una serie de proyectos, tanto a Fondos de Investigación y Desarrollo (I+D), CONICYT, como consultorías con organismos públicos
+              y privados.
+            </li>
+            <li>El tercer año, 2015, fue un año de mayor consolidación.</li>
+          </ul>
+          <div class="audio">
+            <div class="play">
+              <i class="icon-elem icon-elem--play_arrow"></i>
+            </div>
+            <div class="audio-text">sobre nuestra visión y misión</div>
+          </div>
+
+          <h3>Objetivos del Proyecto</h3>
+          <p>El objetivo general de <span class="uppercase">LITERATURA DE FRONTERA<span> es el siguiente:</p>
+          <blockquote>
+            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt qui officia desre eu fugiat nulla pariatrunt qui officia deserunt qui officia deserunt qui offire eu fugiat nulla pariatia deserunt qui officia deserunt qui officia dese anim id est laborum.
+          </blockquote>
+
+          <h3>Objetivos del Específicos</h3>
+          <p>A tres años de su constitución, podemos afirmar que hemos transitado por tres etapas:</p>
+
+          <ol>
+            <li>Constituir y Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt qui officia desre eu</li>
+            <li>Transferir y difundir conocimiento específico, a través de docencia,  capacitación y extensión a la comunidad nacional, apuntando a incorporar los temas foco en las agendas académicas y públicas a nivel local, regional y nacional.</li>
+            <li>Producir recursos de conocimiento y tecnológicos que con excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt qui officia desre eu </li>
+            <li>Difundir a través de diversos medios de Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt qui officia desre eu  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt qui officia desre eu Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt qui officia desre eu.</li>
+          </ol>
+
+          <article class="common-box common-box--horizontal common-box--horizontal--top">
+            <figure class="common-box__figure">
+              <img class="photo" src="images/posts/image_normal.jpg">
+            </figure>
+            <div class="common-box__body">
+              <p class="p-category common-box__meta"><a href="#" title="titulo de ejemplo">TRADUCCIÓN - FRANCIA</a></p>
+              <h2 class="p-name common-box__title">
+                <a href="#">Duis aute irure dolor in reprehenderit in voluptate velit</a>
+              </h2>
+              <div class="p-summary common-box__excerpt">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et illum commodi ex nostrum, necessitatibus modi beatae, excepturi corporis dolorem harum.</p>
+              </div>
+              <div class="common-box__footer">
+                <i class="icon-elem icon-elem--fingerprint back-color"></i>
+                <p class="p-author common-box__meta"><a href="#" title="titulo de ejemplo">Publicado por Tatiana</a></p>
+                <time class="dt-published common-box__meta" datetime="2013-06-13 12:00:00">el 08/09/2016</time>
+              </div>
+            </div>
+          </article>
+
+           <h3>Otros temas</h3>
+           <p>La visibilidad adquirida por éste en el medio de las ciencias sociales aplicadas, referidas a las temáticas del centro aumentó considerablemente. Lo que se refleja en el incremento en la convocatoria a seminarios académicos nacionales e internacionales, apariciones en prensa escrita y en programas de corte académico de televisión abierta. Actualmente cuenta con 3 investigadoras estables y 9 investigadores/as asociados/as, de las sedes de Santiago, Viña del Mar, Arica, Los Angeles, Talca y La Serena.</p>
+
+           <figure>
+             <img src="images/posts/image_normal.jpg" alt="imagen de prueba">
+             <figcaption>Difundir a través de diversos medios de Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt qu.</figcaption>
+           </figure>
+
+           <div class="gridle-gr-12 gridle-gr-12@large gridle-gr-centered horizon">
+								<div class="slider" data-module="slider" style="visibility: visible; backface-visibility: hidden; perspective: 1000px;">
+									<div class="slider__items" data-role="slider-list" style="width: 3336px;">
+										<div class="slider__slide" data-role="slider-slide" data-index="0" data-offset="-556" style="width: 556px; float: left; transition-duration: 0ms; transform: translate(-556px, 0px) translateZ(0px);">
+											<img src="http://placehold.it/1280x1200" class="cover-img">
+										</div>
+										<div class="slider__slide" data-role="slider-slide" data-index="1" data-offset="-1112" style="width: 556px; float: left; transition-duration: 0ms; transform: translate(-1112px, 0px) translateZ(0px);">
+											<img src="http://placehold.it/1280x1200" class="cover-img">
+										</div>
+										<div class="slider__slide" data-role="slider-slide" data-index="2" data-offset="-1668" style="width: 556px; float: left; transition-duration: 0ms; transform: translate(-1668px, 0px) translateZ(0px);">
+											<img src="http://placehold.it/1280x1200" class="cover-img">
+										</div>
+									</div>
+
+									<div class="slider__arrows">
+										<button class="slider__arrow slider__arrow--prev" data-role="slider-arrow" data-direction="prev"></button>
+										<button class="slider__arrow slider__arrow--next" data-role="slider-arrow" data-direction="next"></button>
+									</div>
+								</div>
+							</div>
+
+              <h3>¿Cómo Postular?</h3>
+
+              <div class="desplegables horizon">
+                <div class="desplegable__container" data-desplegable="desplegable">
+                  <div class="desplegable__head">
+                    <h4 class="desplegable__title">Titulo del desplegable</h4>
+                    <div class="desplegable__button">
+                      <i class="icon-elem icon-elem--arrow_drop_down"></i>
+                    </div>
+                  </div>
+                  <div class="desplegable__body">
+                    <h4>Otros temas</h4>
+                    <p>La visibilidad adquirida por éste en el medio de las ciencias sociales aplicadas, referidas a las temáticas del centro aumentó considerablemente. Lo que se refleja en el incremento en la convocatoria a seminarios académicos nacionales e internacionales, apariciones en prensa escrita y en programas de corte académico de televisión abierta. Actualmente cuenta con 3 investigadoras estables y 9 investigadores/as asociados/as, de las sedes de Santiago, Viña del Mar, Arica, Los Angeles, Talca y La Serena.</p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="tables horizon">
+                <table>
+                  <tr>
+                    <th>Company</th>
+                    <th>Contact</th>
+                    <th>Country</th>
+                  </tr>
+                  <tr>
+                    <td>Alfreds Futterkiste</td>
+                    <td>Maria Anders</td>
+                    <td>Germany</td>
+                  </tr>
+                  <tr>
+                    <td>Centro comercial Moctezuma</td>
+                    <td>Francisco Chang</td>
+                    <td>Mexico</td>
+                  </tr>
+                  <tr>
+                    <td>Ernst Handel</td>
+                    <td>Roland Mendel</td>
+                    <td>Austria</td>
+                  </tr>
+                  <tr>
+                    <td>Island Trading</td>
+                    <td>Helen Bennett</td>
+                    <td>UK</td>
+                  </tr>
+                  <tr>
+                    <td>Laughing Bacchus Winecellars</td>
+                    <td>Yoshi Tannamuri</td>
+                    <td>Canada</td>
+                  </tr>
+                  <tr>
+                    <td>Magazzini Alimentari Riuniti</td>
+                    <td>Giovanni Rovelli</td>
+                    <td>Italy</td>
+                  </tr>
+                </table>
+                <p class="caption">Tabla de clasificación de los premios</p>
+              </div>
+
+              <h4 class="especial-background">Descarga de Archivos</h4>
+              <div class="descargables">
+                <div class="descargable__container" data-desplegable="desplegable">
+                  <div class="descargable__head">
+                    <div class="descargable__agroup">
+                      <h4 class="descargable__title">Informe Enfermería geriátrica: competencias asistenciales</h4>
+                      <p class="descargable__detail">Pdf 3,12 MB</p>
+                    </div>
+                    <div class="descargable__button">
+                      <i class="icon-elem icon-elem--file_download"></i>
+                    </div>
+                  </div>
+                </div>
+              </div>
+        </section>
+      </div>
+      <div class="gridle-gr-4">
+        <!--#include file="partials/sidebar-autor.shtml" -->
+      </div>
+    </div>
+  </section>
+  <!--#include file="partials/escribenos.shtml" -->
+</main>
+<!--#include file="footer.shtml" -->

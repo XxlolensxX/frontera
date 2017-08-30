@@ -1,0 +1,28 @@
+<section class="navigation-right">
+  <div class="common-box__body card horizon">
+    <h2 class="p-name common-box__title ">
+      <i class="icon-elem icon-elem--public"></i>
+      <a href="#">Territorio</a>
+    </h2>
+    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>
+    <div class="list-territory">
+      <ul class="list-territory__menu">
+        <li>Chile</li>
+        <li>México</li>
+        <li>Francia</li>
+        <li>África</li>
+      </ul>
+    </div>
+  </div>
+  <div class="common-box__body card">
+    <h2 class="p-name common-box__title">
+      <i class="icon-elem icon-elem--flag"></i>
+      <a href="#">Sobre Frontera</a>
+    </h2>
+    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque accusantium.</p>
+    <div class="button-icon button-icon--outline">
+      <a href="#">Leer más</a>
+      <i class="icon-elem icon-elem--arrow_forward"></i>
+    </div>
+  </div>
+</section>

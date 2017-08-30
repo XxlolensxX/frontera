@@ -1,0 +1,235 @@
+<!--#include file="header.shtml" -->
+<main>
+  <section class="introduction">
+    <div class="gridle-gr-12">
+      <div class="container">
+        <div class="gridle-row">
+          <article class="gridle-gr-7 gridle-gr-12@medium gridle-no-gutter common-box common-box--featured common-box--fancy big">
+            <figure class="common-box__figure">
+              <img class="photo" src="images/posts/image_big.jpg">
+            </figure>
+            <div class="common-box__body">
+              <p class="p-category common-box__meta"><a href="#" title="titulo de ejemplo">TRADUCCIÓN - FRANCIA</a></p>
+              <h2 class="p-name common-box__title">
+								<a href="#">Duis aute irure dolor in reprehenderit in voluptate velit</a>
+							</h2>
+              <div class="common-box__footer">
+                <i class="icon-elem icon-elem--fingerprint back-color"></i>
+                <p class="p-author common-box__meta"><a href="#" title="titulo de ejemplo">Publicado por Tatiana</a></p>
+                <time class="dt-published common-box__meta" datetime="2013-06-13 12:00:00">el 08/09/2016</time>
+              </div>
+            </div>
+          </article>
+          <div class="gridle-gr-5 gridle-gr-12@medium gridle-no-gutter">
+            <article class="common-box common-box--fancy">
+              <figure class="common-box__figure">
+                <img class="photo" src="images/posts/image_big.jpg">
+              </figure>
+              <div class="common-box__body">
+                <p class="p-category common-box__meta"><a href="#" title="titulo de ejemplo">TRADUCCIÓN - FRANCIA</a></p>
+                <h2 class="p-name common-box__title">
+  								<a href="#">Duis aute irure dolor in reprehenderit in voluptate velit</a>
+  							</h2>
+              </div>
+            </article>
+            <article class="common-box common-box--fancy">
+              <figure class="common-box__figure">
+                <img class="photo" src="images/posts/image_big.jpg">
+              </figure>
+              <div class="common-box__body">
+                <p class="p-category common-box__meta"><a href="#" title="titulo de ejemplo">TRADUCCIÓN - FRANCIA</a></p>
+                <h2 class="p-name common-box__title">
+  								<a href="#">Duis aute irure dolor in reprehenderit in voluptate velit</a>
+  							</h2>
+              </div>
+            </article>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="about horizon">
+    <div class="container">
+      <div class="gridle-row flex-helper">
+        <article class="gridle-gr-3 gridle-gr-12@tablet gridle-gr-12@medium common-box card">
+          <div class="common-box__body">
+            <h2 class="p-name common-box__title">
+                <i class="icon-elem icon-elem--flag"></i>
+                <a href="#">Sobre Frontera</a>
+              </h2>
+            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque accusantium.</p>
+            <div class="button button--ghost button--main button-icon">
+              <a href="#">Leer más sobre Frontera</a>
+              <i class="icon-elem icon-elem--arrow_forward"></i>
+            </div>
+          </div>
+        </article>
+        <article class="gridle-gr-3 gridle-gr-12@tablet gridle-gr-12@medium common-box card card__investigadora">
+          <div class="common-box__body">
+            <h2 class="p-name common-box__title">
+                <i class="icon-elem icon-elem--flag"></i>
+                <a href="#">Investigadora responsable</a>
+              </h2>
+            <p>Tatiana Calderón, Académico Facultad natus error sit voluptatem, es la responsable y directora del proyecto Frontera.</p>
+            <div class="button button--ghost button--main button-icon">
+              <a href="#">Leer más sobre Frontera</a>
+              <i class="icon-elem icon-elem--arrow_forward"></i>
+            </div>
+          </div>
+        </article>
+        <article class="gridle-gr-3 gridle-gr-12@tablet gridle-gr-12@medium common-box card card-territorio">
+          <div class="common-box__body">
+            <h2 class="p-name common-box__title">
+                <i class="icon-elem icon-elem--flag"></i>
+                <a href="page-territorio.shtml">Territorio</a>
+              </h2>
+            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>
+            <div class="list-territory">
+              <ul class="list-territory__menu">
+                <li>Chile</li>
+                <li>México</li>
+                <li>Francia</li>
+                <li>África</li>
+              </ul>
+            </div>
+          </div>
+        </article>
+        <article class="gridle-gr-3 gridle-gr-12@tablet gridle-gr-12@medium common-box card card-equipo">
+          <div class="common-box__body">
+            <h2 class="p-name common-box__title">
+                <i class="icon-elem icon-elem--flag"></i>
+                <a href="#">Equipo</a>
+              </h2>
+            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>
+            <div class="list-territory">
+              <ul class="list-territory__menu">
+                <li>Tatiana Calderón</li>
+                <li>Andrea Pérez</li>
+                <li>Cristian Campos</li>
+                <li>Pablo Vázquez</li>
+              </ul>
+            </div>
+            <div class="button button--ghost button--main button-icon">
+              <a href="#">Leer más sobre Frontera</a>
+              <i class="icon-elem icon-elem--arrow_forward"></i>
+            </div>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+  <section class="blog horizon">
+    <div class="container">
+      <div class="gridle-row">
+        <div class="gridle-gr-8 gridle-gr-12@medium gridle-no-gutter">
+          <h2>Publicaciones Anteriores</h2>
+          <article class="gridle-no-gutter common-box common-box--featured">
+            <figure class="common-box__figure">
+              <img class="photo" src="images/posts/image_big.jpg">
+            </figure>
+            <div class="common-box__body">
+              <p class="p-category common-box__meta"><a href="#" title="titulo de ejemplo">TRADUCCIÓN - FRANCIA</a></p>
+              <h2 class="p-name common-box__title font-tallest">
+								<a href="#">Estudio sugiere la utilización de microalgas como inmunoestimulantes a incluir en dieta de peces</a>
+							</h2>
+              <div class="p-summary common-box__excerpt">
+                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt qui officia desre eu fugiat nulla pariatrunt qui
+                  officia deserunt qui officia.</p>
+              </div>
+              <div class="common-box__footer">
+                <i class="icon-elem icon-elem--fingerprint back-color"></i>
+                <p class="p-author common-box__meta"><a href="#" title="titulo de ejemplo">Publicado por Tatiana</a></p>
+                <time class="dt-published common-box__meta" datetime="2013-06-13 12:00:00">el 08/09/2016</time>
+              </div>
+            </div>
+          </article>
+          <div class="gridle-row">
+            <article class="gridle-gr-6 gridle-gr-12@medium common-box no-gutter-left">
+              <figure class="common-box__figure">
+                <img class="photo" src="images/posts/image_big.jpg">
+              </figure>
+              <div class="common-box__body">
+                <p class="p-category common-box__meta"><a href="#" title="titulo de ejemplo">TRADUCCIÓN - FRANCIA</a></p>
+                <h2 class="p-name common-box__title">
+								  <a href="#">Duis aute irure dolor in reprehenderit in voluptate velit</a>
+							  </h2>
+                <div class="p-summary common-box__excerpt">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et illum commodi ex nostrum, necessitatibus modi beatae, excepturi corporis dolorem harum.</p>
+                </div>
+                <div class="common-box__footer">
+                  <i class="icon-elem icon-elem--fingerprint back-color"></i>
+                  <p class="p-author common-box__meta"><a href="#" title="titulo de ejemplo">Publicado por Tatiana</a></p>
+                  <time class="dt-published common-box__meta" datetime="2013-06-13 12:00:00">el 08/09/2016</time>
+                </div>
+              </div>
+            </article>
+            <article class="gridle-gr-6 gridle-gr-12@medium common-box no-gutter-left">
+              <figure class="common-box__figure">
+                <img class="photo" src="images/posts/image_big.jpg">
+              </figure>
+              <div class="common-box__body">
+                <p class="p-category common-box__meta"><a href="#" title="titulo de ejemplo">TRADUCCIÓN - FRANCIA</a></p>
+                <h2 class="p-name common-box__title">
+								  <a href="#">Duis aute irure dolor in reprehenderit in voluptate velit</a>
+							  </h2>
+                <div class="p-summary common-box__excerpt">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et illum commodi ex nostrum, necessitatibus modi beatae, excepturi corporis dolorem harum.</p>
+                </div>
+                <div class="common-box__footer">
+                  <i class="icon-elem icon-elem--fingerprint back-color"></i>
+                  <p class="p-author common-box__meta"><a href="#" title="titulo de ejemplo">Publicado por Tatiana</a></p>
+                  <time class="dt-published common-box__meta" datetime="2013-06-13 12:00:00">el 08/09/2016</time>
+                </div>
+              </div>
+            </article>
+            <article class="gridle-gr-6 gridle-gr-12@medium common-box no-gutter-left">
+              <figure class="common-box__figure">
+                <img class="photo" src="images/posts/image_big.jpg">
+              </figure>
+              <div class="common-box__body">
+                <p class="p-category common-box__meta"><a href="#" title="titulo de ejemplo">TRADUCCIÓN - FRANCIA</a></p>
+                <h2 class="p-name common-box__title">
+								  <a href="#">Duis aute irure dolor in reprehenderit in voluptate velit</a>
+							  </h2>
+                <div class="p-summary common-box__excerpt">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et illum commodi ex nostrum, necessitatibus modi beatae, excepturi corporis dolorem harum.</p>
+                </div>
+                <div class="common-box__footer">
+                  <i class="icon-elem icon-elem--fingerprint back-color"></i>
+                  <p class="p-author common-box__meta"><a href="#" title="titulo de ejemplo">Publicado por Tatiana</a></p>
+                  <time class="dt-published common-box__meta" datetime="2013-06-13 12:00:00">el 08/09/2016</time>
+                </div>
+              </div>
+            </article>
+            <article class="gridle-gr-6 gridle-gr-12@medium common-box no-gutter-left">
+              <figure class="common-box__figure">
+                <img class="photo" src="images/posts/image_big.jpg">
+              </figure>
+              <div class="common-box__body">
+                <p class="p-category common-box__meta"><a href="#" title="titulo de ejemplo">TRADUCCIÓN - FRANCIA</a></p>
+                <h2 class="p-name common-box__title">
+								  <a href="#">Duis aute irure dolor in reprehenderit in voluptate velit</a>
+							  </h2>
+                <div class="p-summary common-box__excerpt">
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et illum commodi ex nostrum, necessitatibus modi beatae, excepturi corporis dolorem harum.</p>
+                </div>
+                <div class="common-box__footer">
+                  <i class="icon-elem icon-elem--fingerprint back-color"></i>
+                  <p class="p-author common-box__meta"><a href="#" title="titulo de ejemplo">Publicado por Tatiana</a></p>
+                  <time class="dt-published common-box__meta" datetime="2013-06-13 12:00:00">el 08/09/2016</time>
+                </div>
+              </div>
+            </article>
+          </div>
+          <!--#include file="partials/pagination.shtml" -->
+        </div>
+        <div class="gridle-gr-4 gridle-gr-12@medium no-gutter-top agenda">
+          <h2>Agenda</h2>
+          <!--#include file="partials/home/agenda.shtml" -->
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--#include file="partials/escribenos.shtml" -->
+</main>
+<!--#include file="footer.shtml" -->

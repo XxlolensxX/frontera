@@ -1,0 +1,59 @@
+<!--#include file="header.shtml" -->
+<main>
+  <section class="container horizon">
+    <div class="gridle-row">
+      <div class="gridle-gr-2">
+        <!--#include file="partials/navs/left.shtml" -->
+      </div>
+      <div class="gridle-gr-8 gridle-gr-12@tablet territorio">
+        <div class="introd horizon--two-r">
+          <h2 class="title_page">Territorio</h2>
+          <!--<p class="subtitle-page">Investigadora responsable</p>-->
+        </div>
+        <section class="contenido-regular">
+          <p class="horizon--two-r">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+
+          <div class="gridle-row">
+            <article class="common-box gridle-gr-6 gridle-gr-12@tablet">
+              <figure class="hmedia common-box__figure">
+                <a href="single-territorio.shtml" title="titulo de ejemplo"><img class="photo" src="images/posts/image_normal.jpg" alt="código HTML5"></a>
+                <figcaption class="common-box__figcaption">
+                  <h2 class="p-name"><a href="#" title="titulo de ejemplo">Chile</a></h2>
+                </figcaption>
+              </figure>
+            </article>
+            <article class="common-box gridle-gr-6 gridle-gr-12@tablet">
+              <figure class="hmedia common-box__figure">
+                <a href="#" title="titulo de ejemplo"><img class="photo" src="images/posts/image_normal.jpg" alt="código HTML5"></a>
+                <figcaption class="common-box__figcaption">
+                  <h2 class="p-name"><a href="#" title="titulo de ejemplo">México</a></h2>
+                </figcaption>
+              </figure>
+            </article>
+            <article class="common-box gridle-gr-6 gridle-gr-12@tablet">
+              <figure class="hmedia common-box__figure">
+                <a href="#" title="titulo de ejemplo"><img class="photo" src="images/posts/image_normal.jpg" alt="código HTML5"></a>
+                <figcaption class="common-box__figcaption">
+                  <h2 class="p-name"><a href="#" title="titulo de ejemplo">Francia</a></h2>
+                </figcaption>
+              </figure>
+            </article>
+            <article class="common-box gridle-gr-6 gridle-gr-12@tablet">
+              <figure class="hmedia common-box__figure">
+                <a href="#" title="titulo de ejemplo"><img class="photo" src="images/posts/image_normal.jpg" alt="código HTML5"></a>
+                <figcaption class="common-box__figcaption">
+                  <h2 class="p-name"><a href="#" title="titulo de ejemplo">África</a></h2>
+                </figcaption>
+              </figure>
+            </article>
+          </div>
+        </section>
+      </div>
+      <div class="gridle-gr-2">
+        <!--#include file="partials/navs/right.shtml" -->
+      </div>
+    </div>
+  </section>
+  <!--#include file="partials/escribenos.shtml" -->
+</main>
+<!--#include file="footer.shtml" -->

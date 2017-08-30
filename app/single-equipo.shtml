@@ -1,0 +1,141 @@
+<!--#include file="header.shtml" -->
+<main>
+  <section class="equipo container">
+    <div class="gridle-row">
+      <div class="gridle-gr-2">
+        <!--#include file="partials/navs/left.shtml" -->
+      </div>
+      <div class="gridle-gr-8 gridle-gr-12@tablet">
+        <div class="introd horizon">
+          <h2 class="title_page">Tatiana Calderón</h2>
+          <p class="subtitle-page">Investigadora responsable</p>
+        </div>
+        <section class="informacion-completa horizon">
+          <article class="common-box common-box--horizontal common-box--horizontal--top">
+            <figure class="hmedia common-box__figure">
+              <a href="#" title="titulo de ejemplo"><img class="photo" src="images/perfiles/perfil_tatiana.jpg" alt="código HTML5"></a>
+              <figcaption class="common-box__figcaption">
+                <ul class="sociales-equipo">
+                  <li class="sociales-equipo__link">
+                    <i class="icon-elem icon-elem--facebook"></i>
+                    <a href="#" title="titulo de ejemplo">/TatianaContreras</a>
+                  </li>
+                  <li class="sociales-equipo__link">
+                    <i class="icon-elem icon-elem--twitter"></i>
+                    <a href="#" title="titulo de ejemplo">@TatiCont</a>
+                  </li>
+                  <li class="sociales-equipo__link">
+                    <i class="icon-elem icon-elem--linkedin"></i>
+                    <a href="#" title="titulo de ejemplo">Tatiana Contreras</a>
+                  </li>
+                  <li class="sociales-equipo__link">
+                    <i class="icon-elem icon-elem--markunread"></i>
+                    <a href="#" title="titulo de ejemplo">contacto@tatiana.cl</a>
+                  </li>
+                </ul>
+              </figcaption>
+            </figure>
+            <div class="common-box__body">
+              <div class="p-summary common-box__excerpt merri light">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et illum commodi ex nostrum, necessitatibus modi beatae, excepturi corporis dolorem harum.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et illum commodi ex nostrum, necessitatibus modi beatae, excepturi corporis dolorem harum.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et illum commodi ex nostrum, necessitatibus modi beatae, excepturi corporis dolorem harum.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et illum commodi ex nostrum, necessitatibus modi beatae, excepturi corporis dolorem harum.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et illum commodi ex nostrum, necessitatibus modi beatae, excepturi corporis dolorem harum.</p>
+              </div>
+            </div>
+          </article>
+        </section>
+        <section class="posts-related">
+          <h3>Publicaciones</h3>
+
+          <article class="common-box common-box--horizontal common-box--horizontal--top">
+            <figure class="common-box__figure">
+              <img class="photo" src="images/posts/image_normal.jpg">
+            </figure>
+            <div class="common-box__body">
+              <p class="p-category common-box__meta"><a href="#" title="titulo de ejemplo">TRADUCCIÓN - FRANCIA</a></p>
+              <h2 class="p-name common-box__title">
+                <a href="#">Duis aute irure dolor in reprehenderit in voluptate velit</a>
+              </h2>
+              <div class="p-summary common-box__excerpt">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et illum commodi ex nostrum, necessitatibus modi beatae, excepturi corporis dolorem harum.</p>
+              </div>
+              <div class="common-box__footer">
+                <i class="icon-elem icon-elem--fingerprint back-color"></i>
+                <p class="p-author common-box__meta"><a href="#" title="titulo de ejemplo">Publicado por Tatiana</a></p>
+                <time class="dt-published common-box__meta" datetime="2013-06-13 12:00:00">el 08/09/2016</time>
+              </div>
+            </div>
+          </article>
+
+          <article class="common-box common-box--horizontal common-box--horizontal--top">
+            <figure class="common-box__figure">
+              <img class="photo" src="images/posts/image_normal.jpg">
+            </figure>
+            <div class="common-box__body">
+              <p class="p-category common-box__meta"><a href="#" title="titulo de ejemplo">TRADUCCIÓN - FRANCIA</a></p>
+              <h2 class="p-name common-box__title">
+                <a href="#">Duis aute irure dolor in reprehenderit in voluptate velit</a>
+              </h2>
+              <div class="p-summary common-box__excerpt">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et illum commodi ex nostrum, necessitatibus modi beatae, excepturi corporis dolorem harum.</p>
+              </div>
+              <div class="common-box__footer">
+                <i class="icon-elem icon-elem--fingerprint back-color"></i>
+                <p class="p-author common-box__meta"><a href="#" title="titulo de ejemplo">Publicado por Tatiana</a></p>
+                <time class="dt-published common-box__meta" datetime="2013-06-13 12:00:00">el 08/09/2016</time>
+              </div>
+            </div>
+          </article>
+
+          <article class="common-box common-box--horizontal common-box--horizontal--top">
+            <figure class="common-box__figure">
+              <img class="photo" src="images/posts/image_normal.jpg">
+            </figure>
+            <div class="common-box__body">
+              <p class="p-category common-box__meta"><a href="#" title="titulo de ejemplo">TRADUCCIÓN - FRANCIA</a></p>
+              <h2 class="p-name common-box__title">
+                <a href="#">Duis aute irure dolor in reprehenderit in voluptate velit</a>
+              </h2>
+              <div class="p-summary common-box__excerpt">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et illum commodi ex nostrum, necessitatibus modi beatae, excepturi corporis dolorem harum.</p>
+              </div>
+              <div class="common-box__footer">
+                <i class="icon-elem icon-elem--fingerprint back-color"></i>
+                <p class="p-author common-box__meta"><a href="#" title="titulo de ejemplo">Publicado por Tatiana</a></p>
+                <time class="dt-published common-box__meta" datetime="2013-06-13 12:00:00">el 08/09/2016</time>
+              </div>
+            </div>
+          </article>
+
+          <article class="common-box common-box--horizontal common-box--horizontal--top">
+            <figure class="common-box__figure">
+              <img class="photo" src="images/posts/image_normal.jpg">
+            </figure>
+            <div class="common-box__body">
+              <p class="p-category common-box__meta"><a href="#" title="titulo de ejemplo">TRADUCCIÓN - FRANCIA</a></p>
+              <h2 class="p-name common-box__title">
+                <a href="#">Duis aute irure dolor in reprehenderit in voluptate velit</a>
+              </h2>
+              <div class="p-summary common-box__excerpt">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et illum commodi ex nostrum, necessitatibus modi beatae, excepturi corporis dolorem harum.</p>
+              </div>
+              <div class="common-box__footer">
+                <i class="icon-elem icon-elem--fingerprint back-color"></i>
+                <p class="p-author common-box__meta"><a href="#" title="titulo de ejemplo">Publicado por Tatiana</a></p>
+                <time class="dt-published common-box__meta" datetime="2013-06-13 12:00:00">el 08/09/2016</time>
+              </div>
+            </div>
+          </article>
+          <!--#include file="partials/pagination.shtml" -->
+        </section>
+      </div>
+      <div class="gridle-gr-2">
+        <!--#include file="partials/navs/right.shtml" -->
+      </div>
+    </div>
+  </section>
+  <!--#include file="partials/escribenos.shtml" -->
+</main>
+<!--#include file="footer.shtml" -->

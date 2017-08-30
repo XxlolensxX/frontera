@@ -1,0 +1,45 @@
+  <footer class="footer-bar">
+		<div class="container gridle-no-gutter">
+			<div class="gridle-row">
+				<div class="gridle-gr-3 gridle-gr-12@tablet logotipo">
+					<a class="app-brand" href="/">
+						<img class="app-brand__logo" src="images/logos/frontera_white.jpg" alt="Logo">
+						<!--<span class="app-brand__name">Nombre o logo de la empresa</span>-->
+					</a>
+				</div>
+				<div class="gridle-gr-6 gridle-gr-12@tablet information">
+          <div class="footer-bar__link no-margin">
+            <i class="icon-elem icon-elem--markunread"></i>
+            <a href="#">proyectofronteras@gmail.com</a>
+          </div>
+          <div class="footer-bar__link">
+            <i class="icon-elem icon-elem--phone"></i>
+            <a href="#">2 222 222 22 - 2 333 333 33</a>
+          </div>
+          <div class="footer-bar__link">
+            <i class="icon-elem icon-elem--place"></i>
+            <a href="#">Dirección del proyecto</a>
+          </div>
+				</div>
+        <div class="gridle-gr-3 gridle-gr-12@tablet sociales">
+          <div class="footer-bar__link">
+            <a href="#" class="icon-elem icon-elem--facebook"></a>
+          </div>
+          <div class="footer-bar__link">
+            <a href="#" class="icon-elem icon-elem--twitter"></a>
+          </div>
+          <div class="footer-bar__link no-margin">
+            <a href="#" class="icon-elem icon-elem--youtube"></a>
+          </div>
+          <div class="footer-bar__link no-margin">
+            <a href="#" class="icon-elem icon-elem--linkedin"></a>
+          </div>
+				</div>
+			</div>
+		</div>
+	</footer>
+  <script src="scripts/min/main.min.js"></script>
+  <script src="scripts/libs/jquery-3.1.0.min.js"></script>
+  <script src="scripts/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,102 @@
+<!--#include file="meta-header.shtml" -->
+<header class="header-bar">
+  <section class="top-bar">
+    <div class="container flex-helper">
+    <p class="top-bar__cita">“Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eis”</p>
+    <div>
+      <div class="top-bar__items">
+        <a href="#" class="top-bar__item">Newsletter</a>
+        <a href="#" class="top-bar__item">Contacto</a>
+        <a href="#" class="top-bar__item">Preguntas Frecuentes</a>
+        <a href="#" class="top-bar__item">Glosario</a>
+        <a href="#" class="top-bar__item icon-elem icon-elem--facebook"></a>
+        <a href="#" class="top-bar__item icon-elem icon-elem--twitter"></a>
+        <a href="#" class="top-bar__item icon-elem icon-elem--youtube"></a>
+        <a href="#" class="top-bar__item icon-elem icon-elem--linkedin"></a>
+      </div>
+    </div>
+    </div>
+  </section>
+  <!-- ARREGLAR PARA NAV DEL MEDIO -->
+  <nav class="secondary-navigation">
+    <div class="container secondary-navigation__container" data-area-name="menu-top">
+      <div class="secondary-navigation__body"  data-mq-change="medium" data-match-area="menu-top@medium" data-unmatch-area="menu-top">
+        <ul class="secondary-navigation__menu">
+          <li class="menu-item menu-item__link">
+            <a href="sobre-frontera.shtml">sobre fronteras</a>
+          </li>
+          <li class="menu-item menu-item__link">
+            <a href="equipo.shtml">Equipo</a>
+          </li>
+          <li class="menu-item menu-item__link">
+            <a href="#">Redes</a>
+          </li>
+          <li class="menu-item menu-item__link">
+            <a href="#">Publicaciones</a>
+          </li>
+          <li class="menu-item menu-item__link">
+            <a href="#">Creación Fronteriza</a>
+          </li>
+        </ul>
+      </div>
+      <!-- IDIOMAS -->
+      <div class="lenguage-navigation">
+        <div class="lenguage-navigation__body">
+          <ul class="lenguage-navigation__menu">
+            <li class="menu-item menu-item__link menu-item--active">
+              <a href="#">ES</a>
+            </li>
+            <li class="menu-item menu-item__link">
+              <a href="#">EN</a>
+            </li>
+            <li class="menu-item menu-item__link">
+              <a href="#">FR</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <!-- ARREGLAR PARA NAV DEL MEDIO -->
+  <nav class="main-navigation" data-module="main-navigation">
+    <div class="container">
+      <div class="main-navigation__holder">
+        <div class="main-navigation__brand">
+          <a class="app-brand app-brand--inline" href="/">
+							<img class="app-brand__logo" src="images/logos/frontera.png" alt="Logo">
+							<!--<span class="app-brand__name">Nombre o logo de la empresa</span>-->
+						</a>
+        </div>
+        <div class="main-navigation__body" data-role="nav-body">
+          <button class="main-navigation__deploy-button" aria-label="Ver menú" data-role="nav-deployer">
+							<span></span>
+					</button>
+          <div class="main-navigation__menu-holder">
+            <ul class="main-navigation__menu">
+              <li class="menu-item menu-item__link">
+                <a href="#">Historia/Memoria</a>
+              </li>
+              <li class="menu-item menu-item__link">
+                <a href="#">Migración</a>
+              </li>
+              <li class="menu-item menu-item__link">
+                <a href="#">Traducción</a>
+              </li>
+              <li class="menu-item menu-item__link">
+                <a href="#">Identidad</a>
+              </li>
+              <li class="menu-item menu-item__link">
+                <a href="#">Cuerpo</a>
+              </li>
+              <li class="menu-item menu-item__link menu-item--search hide-on-medium-down">
+                <a href="#" class="icon-elem icon-elem--search"></a>
+              </li>
+            </ul>
+            <div class="main-navigation__auxmenu" data-area-name="menu-top@medium"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+</header>
+<!--#include file="partials/breadcrums-bar.shtml" -->

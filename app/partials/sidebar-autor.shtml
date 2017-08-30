@@ -1,0 +1,74 @@
+<section class="sidebar-author">
+  <h3>Acerca del autor</h3>
+  <article class="common-box common-box--horizontal information-author horizon">
+    <figure class="hmedia common-box__figure">
+      <a href="#" title="titulo de ejemplo"><img class="photo" src="images/perfiles/perfil_tatiana.jpg" alt="código HTML5"></a>
+    </figure>
+    <div class="common-box__body">
+      <div class="p-summary common-box__excerpt">
+        <p class="merry">Investigadora Responsable</p>
+        <h2 class="p-name common-box__title">
+          <a href="#">Tatiana Calderón</a>
+        </h2>
+      </div>
+    </div>
+  </article>
+  <h3>Otras publicaciones del autor</h3>
+  <section class="posts-related horizon">
+    <article class="common-box common-box--horizontal common-box--horizontal--top">
+      <div class="common-box__body no-padding">
+        <p class="p-category common-box__meta"><a href="#" title="titulo de ejemplo">TRADUCCIÓN - FRANCIA</a></p>
+        <h2 class="p-name common-box__title">
+          <a href="#">Duis aute irure dolor in reprehenderit in voluptate velit</a>
+        </h2>
+        <div class="common-box__footer">
+          <i class="icon-elem icon-elem--fingerprint back-color"></i>
+          <p class="p-author common-box__meta"><a href="#" title="titulo de ejemplo">Publicado por Tatiana</a></p>
+          <time class="dt-published common-box__meta" datetime="2013-06-13 12:00:00">el 08/09/2016</time>
+        </div>
+      </div>
+    </article>
+    <article class="common-box common-box--horizontal common-box--horizontal--top">
+      <div class="common-box__body no-padding">
+        <p class="p-category common-box__meta"><a href="#" title="titulo de ejemplo">TRADUCCIÓN - FRANCIA</a></p>
+        <h2 class="p-name common-box__title">
+          <a href="#">Duis aute irure dolor in reprehenderit in voluptate velit</a>
+        </h2>
+        <div class="common-box__footer">
+          <i class="icon-elem icon-elem--fingerprint back-color"></i>
+          <p class="p-author common-box__meta"><a href="#" title="titulo de ejemplo">Publicado por Tatiana</a></p>
+          <time class="dt-published common-box__meta" datetime="2013-06-13 12:00:00">el 08/09/2016</time>
+        </div>
+      </div>
+    </article>
+    <article class="common-box common-box--horizontal common-box--horizontal--top">
+      <div class="common-box__body no-padding">
+        <p class="p-category common-box__meta"><a href="#" title="titulo de ejemplo">TRADUCCIÓN - FRANCIA</a></p>
+        <h2 class="p-name common-box__title">
+          <a href="#">Duis aute irure dolor in reprehenderit in voluptate velit</a>
+        </h2>
+        <div class="common-box__footer">
+          <i class="icon-elem icon-elem--fingerprint back-color"></i>
+          <p class="p-author common-box__meta"><a href="#" title="titulo de ejemplo">Publicado por Tatiana</a></p>
+          <time class="dt-published common-box__meta" datetime="2013-06-13 12:00:00">el 08/09/2016</time>
+        </div>
+      </div>
+    </article>
+  </section>
+  <section class="escribenos horizon">
+    <h2>Newsletter</h2>
+    <form method="post" action="" class="form-control__group newsletter-form">
+      <div class="form-control" data-error-message="Debe llenar este campo sólo con caracteres no numéricos">
+        <label class="form-control__label">Nombre *</label>
+        <p class="form-control__label form-control__label--english">Name and Lastname *</p>
+        <input type="text" class="form-control__field" required="" placeholder="Nombre y Apellidos" data-custom-validation="onlyString">
+      </div>
+      <div class="form-control" data-error-message="Debe llenar este campo con un email válido">
+        <label class="form-control__label">Correo Electrónico *</label>
+        <p class="form-control__label form-control__label--english">E-Mail *</p>
+        <input id="sample-email" type="email" class="form-control__field" required="" placeholder="ejemplo@email.com">
+      </div>
+      <button type="submit" class="button button--full-width button--secondary">Enviar</button>
+    </form>
+  </section>
+</section>

@@ -1,0 +1,17 @@
+<ul class="navigation-left">
+  <li class="navigation-left__father navigation-left__link navigation-left__link--active">
+    <a href="">Equipo</a>
+  </li>
+  <li class="navigation-left__link">
+    <a href="">Tatiana Calderón</a>
+  </li>
+  <li class="navigation-left__link">
+    <a href="">Andrea Pérez</a>
+  </li>
+  <li class="navigation-left__link">
+    <a href="">Cristian Campos</a>
+  </li>
+  <li class="navigation-left__link">
+    <a href="">Pablo Vásquez</a>
+  </li>
+</ul>

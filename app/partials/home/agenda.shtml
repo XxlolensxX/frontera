@@ -1,0 +1,78 @@
+<section class="eventos">
+  <div class="evento">
+    <div class="evento__header">
+      <div class="evento__meta fecha_evento">
+        <time class="dt-published evento__meta" datetime="2013-06-13 12:00:00"><span class="numero">09</span><span class="mes">AGO<span></time>
+      </div>
+    </div>
+    <div class="evento__body">
+      <h2 class="p-name"><a href="#" title="titulo de ejemplo">Conversatorio sobre el adulto mayor en Chile</a></h2>
+      <p class="p-author evento__meta">A las 07:00 hrs en Vergara 165, Santiago Centro</p>
+    </div>
+  </div>
+  <div class="evento">
+    <div class="evento__header">
+      <div class="evento__meta fecha_evento">
+        <time class="dt-published evento__meta" datetime="2013-06-13 12:00:00"><span class="numero">09</span><span class="mes">AGO<span></time>
+      </div>
+    </div>
+    <div class="evento__body">
+      <h2 class="p-name"><a href="#" title="titulo de ejemplo">Conversatorio sobre el adulto mayor en Chile</a></h2>
+      <p class="p-author evento__meta">A las 07:00 hrs en Vergara 165, Santiago Centro</p>
+    </div>
+  </div>
+  <div class="evento">
+    <div class="evento__header">
+      <div class="evento__meta fecha_evento">
+        <time class="dt-published evento__meta" datetime="2013-06-13 12:00:00"><span class="numero">29</span><span class="mes">AGO<span></time>
+      </div>
+    </div>
+    <div class="evento__body">
+      <h2 class="p-name"><a href="#" title="titulo de ejemplo">Conversatorio sobre el adulto mayor en Chile</a></h2>
+      <p class="p-author evento__meta">A las 07:00 hrs en Vergara 165, Santiago Centro</p>
+    </div>
+  </div>
+</section>
+<section class="escribenos horizon">
+  <h2>Escríbenos</h2>
+  <form method="post" action="" class="form-control__group side-form">
+    <div class="form-control" data-error-message="Debe llenar este campo sólo con caracteres no numéricos">
+      <label class="form-control__label">Nombre *</label>
+      <p class="form-control__label form-control__label--english">Name and Lastname *</p>
+      <input type="text" class="form-control__field" required="" placeholder="Nombre y Apellidos" data-custom-validation="onlyString">
+    </div>
+    <div class="form-control" data-error-message="Debe llenar este campo con un email válido">
+      <label class="form-control__label">Correo Electrónico *</label>
+      <p class="form-control__label form-control__label--english">E-Mail *</p>
+      <input id="sample-email" type="email" class="form-control__field" required="" placeholder="ejemplo@email.com">
+    </div>
+    <div class="form-control">
+      <label class="form-control__label">Mensaje *</label>
+      <p class="form-control__label form-control__label--english">Message *</p>
+      <textarea class="form-control__field" required="" placeholder="Ingrese su mensaje..." rows="5"></textarea>
+    </div>
+    <button type="submit" class="button button--full-width button--secondary">Enviar</button>
+  </form>
+</section>
+<section class="siguenos">
+  <h2>Siguenos en</h2>
+  <div class="sociales-botones">
+    <div class="icon-elem icon-elem--big icon-elem--facebook back--facebook">
+      <span class=""></span>
+      <a href="#">Facebook</a>
+    </div>
+
+    <div class="icon-elem icon-elem--big  icon-elem--youtube back--youtube">
+      <span class=""></span>
+      <a href="#">Youtube</a>
+    </div>
+    <div class="icon-elem icon-elem--big  icon-elem--issuu back--issuu">
+      <span class=""></span>
+      <a href="#">ISSUU</a>
+    </div>
+    <div class="icon-elem icon-elem--big  icon-elem--issuu back--otro">
+      <span class=""></span>
+      <a href="#">Otro</a>
+    </div>
+  </div>
+</section>

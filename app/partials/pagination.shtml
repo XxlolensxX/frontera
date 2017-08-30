@@ -1,0 +1,10 @@
+<section class="pagination-holder">
+  <div class="pagination-items">
+    <a class="pagination-control direction-control prev" href="#"><i class="icon-elem icon-elem--navigate_before"></i></a>
+    <span class="pagination-control page-control active">1</span>
+    <a class="pagination-control page-control" href="#">2</a>
+    <a class="pagination-control page-control" href="#">3</a>
+    <span class="pagination-control page-control dots">…</span>
+    <a class="pagination-control page-control" href="#">114</a>
+    <a class="pagination-control direction-control next" href="#"><i class="icon-elem icon-elem--navigate_next"></i></a></div>
+</section>

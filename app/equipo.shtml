@@ -1,0 +1,92 @@
+<!--#include file="header.shtml" -->
+<main>
+  <section class="equipo container">
+    <div class="gridle-row">
+      <div class="gridle-gr-2">
+        <!--#include file="partials/navs/left.shtml" -->
+      </div>
+      <div class="gridle-gr-8 gridle-gr-12@tablet">
+        <h2 class="title_page horizon--two-r">Equipo</h2>
+        <section class="investigador-destacado horizon">
+          <h3 class="horizon--two-r">Investigador Responsable</h3>
+          <article class="common-box common-box--horizontal">
+            <figure class="hmedia common-box__figure">
+              <a href="#" title="titulo de ejemplo"><img class="photo" src="images/perfiles/perfil_tatiana.jpg" alt="código HTML5"></a>
+              <figcaption class="common-box__figcaption">
+                <h2 class="p-name"><a href="#" title="titulo de ejemplo">Tatiana Calderón</a></h2>
+                <p>investigadora responsable</p>
+              </figcaption>
+            </figure>
+            <div class="common-box__body">
+              <div class="p-summary common-box__excerpt">
+                <p class="merry">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et illum commodi ex nostrum, necessitatibus modi beatae, excepturi corporis dolorem harum.</p>
+                <p class="merry">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et illum commodi ex nostrum, necessitatibus modi beatae, excepturi corporis dolorem harum.</p>
+              </div>
+              <div class="button button--ghost button--main button-icon u-url">
+                <a href="single-equipo.shtml">Leer más sobre Tatiana</a>
+                <i class="icon-elem icon-elem--arrow_forward"></i>
+              </div>
+            </div>
+          </article>
+        </section>
+
+        <section class="colaboradores">
+          <h3>Colaboradores</h3>
+          <p class="merry">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et illum commodi ex nostrum, necessitatibus modi beatae, excepturi corporis dolorem harum.</p>
+          <div class="gridle-row">
+            <article class="common-box gridle-gr-4 gridle-gr-12@tablet">
+              <figure class="hmedia common-box__figure">
+                <a href="#" title="titulo de ejemplo"><img class="photo" src="images/perfiles/perfil_generico.jpg" alt="código HTML5"></a>
+                <figcaption class="common-box__figcaption">
+                  <h2 class="p-name"><a href="#" title="titulo de ejemplo">Ariel Gómez Ramírez</a></h2>
+                  <p>Cargo del colaborador</p>
+                </figcaption>
+              </figure>
+            </article>
+            <article class="common-box gridle-gr-4 gridle-gr-12@tablet">
+              <figure class="hmedia common-box__figure">
+                <a href="#" title="titulo de ejemplo"><img class="photo" src="images/perfiles/perfil_generico.jpg" alt="código HTML5"></a>
+                <figcaption class="common-box__figcaption">
+                  <h2 class="p-name"><a href="#" title="titulo de ejemplo">Ariel Gómez Ramírez</a></h2>
+                  <p>Cargo del colaborador</p>
+                </figcaption>
+              </figure>
+            </article>
+            <article class="common-box gridle-gr-4 gridle-gr-12@tablet">
+              <figure class="hmedia common-box__figure">
+                <a href="#" title="titulo de ejemplo"><img class="photo" src="images/perfiles/perfil_generico.jpg" alt="código HTML5"></a>
+                <figcaption class="common-box__figcaption">
+                  <h2 class="p-name"><a href="#" title="titulo de ejemplo">Ariel Gómez Ramírez</a></h2>
+                  <p>Cargo del colaborador</p>
+                </figcaption>
+              </figure>
+            </article>
+            <article class="common-box gridle-gr-4 gridle-gr-12@tablet">
+              <figure class="hmedia common-box__figure">
+                <a href="#" title="titulo de ejemplo"><img class="photo" src="images/perfiles/perfil_generico.jpg" alt="código HTML5"></a>
+                <figcaption class="common-box__figcaption">
+                  <h2 class="p-name"><a href="#" title="titulo de ejemplo">Ariel Gómez Ramírez</a></h2>
+                  <p>Cargo del colaborador</p>
+                </figcaption>
+              </figure>
+            </article>
+            <article class="common-box gridle-gr-4 gridle-gr-12@tablet">
+              <figure class="hmedia common-box__figure">
+                <a href="#" title="titulo de ejemplo"><img class="photo" src="images/perfiles/perfil_generico.jpg" alt="código HTML5"></a>
+                <figcaption class="common-box__figcaption">
+                  <h2 class="p-name"><a href="#" title="titulo de ejemplo">Ariel Gómez Ramírez</a></h2>
+                  <p>Cargo del colaborador</p>
+                </figcaption>
+              </figure>
+            </article>
+          </div>
+        </section>
+      </div>
+      <div class="gridle-gr-2">
+        <!--#include file="partials/navs/right.shtml" -->
+      </div>
+    </div>
+  </section>
+  <!--#include file="partials/escribenos.shtml" -->
+</main>
+<!--#include file="footer.shtml" -->
