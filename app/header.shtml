@@ -2,42 +2,44 @@
 <header class="header-bar">
   <section class="top-bar">
     <div class="container flex-helper">
-    <p class="top-bar__cita">“Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eis”</p>
-    <div>
-      <div class="top-bar__items">
-        <a href="#" class="top-bar__item">Newsletter</a>
-        <a href="#" class="top-bar__item">Contacto</a>
-        <a href="#" class="top-bar__item">Preguntas Frecuentes</a>
-        <a href="#" class="top-bar__item">Glosario</a>
-        <a href="#" class="top-bar__item icon-elem icon-elem--facebook"></a>
-        <a href="#" class="top-bar__item icon-elem icon-elem--twitter"></a>
-        <a href="#" class="top-bar__item icon-elem icon-elem--youtube"></a>
-        <a href="#" class="top-bar__item icon-elem icon-elem--linkedin"></a>
+      <p class="top-bar__cita">“Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eis”</p>
+      <div>
+        <div class="top-bar__items">
+          <a href="#" class="top-bar__item">Newsletter</a>
+          <a href="#" class="top-bar__item">Contacto</a>
+          <a href="#" class="top-bar__item">Preguntas Frecuentes</a>
+          <a href="#" class="top-bar__item">Glosario</a>
+          <a href="#" class="top-bar__item icon-elem icon-elem--facebook"></a>
+          <a href="#" class="top-bar__item icon-elem icon-elem--twitter"></a>
+          <a href="#" class="top-bar__item icon-elem icon-elem--youtube_play"></a>
+          <a href="#" class="top-bar__item icon-elem icon-elem--linkedin"></a>
+        </div>
       </div>
-    </div>
     </div>
   </section>
   <!-- ARREGLAR PARA NAV DEL MEDIO -->
   <nav class="secondary-navigation">
-    <div class="container secondary-navigation__container" data-area-name="menu-top">
-      <div class="secondary-navigation__body"  data-mq-change="medium" data-match-area="menu-top@medium" data-unmatch-area="menu-top">
-        <ul class="secondary-navigation__menu">
-          <li class="menu-item menu-item__link">
-            <a href="sobre-frontera.shtml">sobre fronteras</a>
-          </li>
-          <li class="menu-item menu-item__link">
-            <a href="equipo.shtml">Equipo</a>
-          </li>
-          <li class="menu-item menu-item__link">
-            <a href="#">Redes</a>
-          </li>
-          <li class="menu-item menu-item__link">
-            <a href="#">Publicaciones</a>
-          </li>
-          <li class="menu-item menu-item__link">
-            <a href="#">Creación Fronteriza</a>
-          </li>
-        </ul>
+    <div class="container flex-end ">
+      <div class="secondary-navigation__container" data-area-name="menu-top">
+        <div class="secondary-navigation__body" data-mq-change="medium" data-match-area="menu-top@medium" data-unmatch-area="menu-top">
+          <ul class="secondary-navigation__menu">
+            <li class="menu-item menu-item__link">
+              <a href="sobre-frontera.shtml">sobre fronteras</a>
+            </li>
+            <li class="menu-item menu-item__link">
+              <a href="equipo.shtml">Equipo</a>
+            </li>
+            <li class="menu-item menu-item__link">
+              <a href="#">Redes</a>
+            </li>
+            <li class="menu-item menu-item__link">
+              <a href="#">Publicaciones</a>
+            </li>
+            <li class="menu-item menu-item__link">
+              <a href="#">Creación Fronteriza</a>
+            </li>
+          </ul>
+        </div>
       </div>
       <!-- IDIOMAS -->
       <div class="lenguage-navigation">
@@ -86,7 +88,7 @@
                 <a href="#">Identidad</a>
               </li>
               <li class="menu-item menu-item__link">
-                <a href="#">Cuerpo</a>
+                <a href="corpus.shtml">Cuerpo</a>
               </li>
               <li class="menu-item menu-item__link menu-item--search hide-on-medium-down">
                 <a href="#" class="icon-elem icon-elem--search"></a>

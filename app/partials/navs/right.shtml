@@ -7,10 +7,18 @@
     <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>
     <div class="list-territory">
       <ul class="list-territory__menu">
-        <li>Chile</li>
-        <li>México</li>
-        <li>Francia</li>
-        <li>África</li>
+        <li>
+          <a href="#">Chile</a>
+        </li>
+        <li>
+          <a href="#">México</a>
+        </li>
+        <li>
+          <a href="#">Francia</a>
+        </li>
+        <li>
+          <a href="#">África</a>
+        </li>
       </ul>
     </div>
   </div>

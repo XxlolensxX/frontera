@@ -46,3 +46,5 @@ sitemap.xml.gz
 *.sublime-project
 *.sublime-workspace
 .babelrc
+gulpfile.babel.js
+package.json

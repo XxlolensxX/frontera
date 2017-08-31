@@ -1,6 +1,6 @@
 <section class="contact">
   <div class="content">
-    <h2>Escríbenos</h2>
+    <h2>Newsletter</h2>
     <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dol</p>
     <form class="gridle-row contact-form" data-module="common-form" novalidate="" data-validizr-handled="true">
       <div class="gridle-gr-4 gridle-gr-12@medium">

@@ -92,7 +92,7 @@ $(document).ready(function () {
 
     //navegacion
     $('[data-role="nav-deployer"]').click(function(){
-      $(this).toggleClass('open-menu');
+      $(this).parent().toggleClass('open-menu');
     });
 
     //desplegables

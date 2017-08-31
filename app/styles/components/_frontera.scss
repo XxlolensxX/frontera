@@ -45,6 +45,12 @@ p {
   line-height: 21px !important;
 }
 
+a{
+  &:hover{
+    text-decoration: underline;
+  }
+}
+
 .flex-helper {
   display: flex;
   justify-content: space-between;
@@ -197,12 +203,18 @@ p {
 
   &__container {
     display: flex;
-    flex-direction: row-reverse;
-    justify-content: flex-start;
   }
 
   &__menu {
     display: flex;
+
+    .menu-item{
+      a{
+        &:hover{
+          text-decoration: underline;
+        }
+      }
+    }
   }
 
   .lenguage-navigation {
@@ -216,6 +228,11 @@ p {
       .menu-item {
         border-right: 1px solid #656565;
 
+        a{
+          &:hover{
+            text-decoration: underline;
+          }
+        }
         &:last-child {
           border-right: none;
         }
@@ -265,11 +282,17 @@ p {
 }
 
 .print{
+
   .button-icon{
     text-decoration: none;
+    align-items: baseline!important;
     a{
     font-size: map-get($text_sizes,ten);
     font-weight: 400;
+    }
+
+    &:hover{
+      border-bottom: 1px solid $color_black!important;
     }
   }
 }
@@ -303,14 +326,21 @@ p {
     padding: 0;
 
     .common-box{
-      max-height: 260px;
+      max-height: 264.3px;
+      overflow: hidden;
+
+      &:last-child{
+        margin-top: 2px;
+      }
     }
   }
 
   .big {
     padding: 0!important;
+    background-color: $color_white!important;
     .common-box{
       max-height: 560px;
+      overflow: hidden;
     }
 
     .common-box__body {
@@ -337,9 +367,11 @@ p {
 
       &:hover {
         background-color: #F8E71C;
+        cursor: pointer;
 
         a {
           color: $color_black !important;
+          text-decoration: underline;
         }
       }
     }
@@ -391,6 +423,28 @@ p {
 }
 @media screen and(max-width:1280px){
   .container{max-width:78rem;}
+}
+@media screen and(max-width:1024px){
+  .about{
+    padding-left:20px!important;
+    padding-right:20px!important;
+  }
+
+  .card{
+    margin:3rem 0 0 0!important;
+    height: auto!important;
+    max-height: auto!important;
+
+
+    .button-icon{
+      position: static!important;
+      display: flex!important;
+      margin-top: 16px;
+      height: 54px;
+    }
+  }
+
+
 }
 
 @media screen and(max-width:800px){
@@ -554,36 +608,24 @@ p {
   }
 
   .about{
-    background-image: none!important;
-    padding-top: 0!important;
-    padding-bottom: 0!important;
 
     .card-equipo,.card-territorio{p{display: none}}
 
     .card{
-      height: auto!important;
       margin:3rem 0 0 0!important;
-      padding:0!important;
+      height: auto;
+      max-width: auto;
 
-      .common-box__title,p,.list-territory{
-        padding-left:30px!important;
-      }
-
-      p{
-        margin-top: 2rem!important;
-        padding-right: 58px!important;
-      }
+      p{margin-top: 2rem!important;}
 
       .button-icon{
-        position: initial!important;
+        position: static!important;
         display: flex!important;
-        background-color: $color_black;
         margin-top: 16px;
         height: 54px;
-        color: $color_white!important;
-        a{color:$color_white!important;}
       }
     }
+
     .list-territory{
       text-transform: uppercase!important;
     }
@@ -725,6 +767,11 @@ p {
   .gridle-gr-3 {
     max-width: 23%;
   }
+
+  .container{
+    margin: 0 auto!important;
+    max-width: 76rem;
+  }
 }
 
 .card {
@@ -790,6 +837,10 @@ p {
         content: $icon-chevron_right;
         color: $color_black;
         margin-right: 8px;
+      }
+
+      a{
+        color: $color_black;
       }
     }
   }
@@ -884,6 +935,11 @@ p {
       background-color: $color_black;
       font-weight: 500;
       font-size: map-get($text_sizes,mini);
+
+      &:hover{
+        background-color: #f8e71c;
+        color:$color_black;
+      }
     }
   }
 }
@@ -997,6 +1053,11 @@ p {
       background-color: $color_black;
       font-weight: 500;
       font-size: map-get($text_sizes,mini);
+
+      &:hover{
+        background-color: #f8e71c;
+        color:$color_black;
+      }
     }
 
     .form-control{
@@ -1028,6 +1089,11 @@ p {
     background-color: $color_black;
     font-weight: 500;
     font-size: map-get($text_sizes,mini);
+
+    &:hover{
+      background-color: #f8e71c;
+      color:$color_black;
+    }
       }
     }
   }
@@ -1148,6 +1214,14 @@ p {
         font-weight: 300;
         font-size:map-get($text_sizes,mini);
       }
+
+      &:hover{
+
+      h2{text-decoration: underline;}
+
+      background-color: #f8e71c;
+      cursor: pointer;
+      }
     }
   }
 }
@@ -1181,6 +1255,14 @@ p {
     .button-icon{
       position: initial;
       padding-left: 0 !important;
+      margin-top: 16px;
+
+      a{
+        margin-right: 8px;
+        &:hover{
+          text-decoration: underline!important;
+        }
+      }
     }
   }
 }
@@ -1461,7 +1543,7 @@ p {
     padding: $base_padding;
     display: none;
     p{
-      font-size: map-get($text_sizes,regular);
+      font-size: map-get($text_sizes,tiny);
     }
   }
 }
